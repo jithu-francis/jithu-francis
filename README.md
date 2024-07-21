@@ -1,8 +1,8 @@
+---
+
 # 💻 Jithu Francis
 
-![Profile Picture](https://avatars.githubusercontent.com/u/85450995?v=4)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=github)](https://jithu-francis.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://jithu-francis.github.io/)
 [![GitHub](https://img.shields.io/github/followers/jithu-francis?label=Follow&style=social)](https://github.com/jithu-francis)
 
 ---
@@ -82,10 +82,3 @@ Feel free to explore my projects and connect with me. Let's build something amaz
 ### ✨ Thank you for visiting my GitHub profile!
 
 ---
-
-<style>
-body {
-  background: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
-  color: #333;
-}
-</style>
