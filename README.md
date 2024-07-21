@@ -14,10 +14,10 @@ I thrive on solving problems and am always eager to learn and grow. My backgroun
 
 ## 🛠️ Skills
 
-- **Programming Languages:** C, Java, Python, Django
-- **Web Development:** HTML, CSS, JavaScript, AJAX
-- **Database Management:** SQL, NoSQL
-- **Tools & Technologies:** Git, Docker, Jenkins, Kubernetes
+- **Programming Languages:** C, Java, Python
+- **Web Development:** HTML, CSS, JavaScript, Django
+- **Database Management:** SQL
+- **Tools & Technologies:** Git, Docker
 - **Soft Skills:** Strong organizational and time-management skills, effective communication, and interpersonal skills
 
 ---
