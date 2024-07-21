@@ -2,8 +2,8 @@
 
 # 💻 Jithu Francis
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://jithu-francis.github.io/)
-[![GitHub](https://img.shields.io/github/followers/jithu-francis?label=Follow&style=social)](https://github.com/jithu-francis)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://jithu-francis.github.io/)]
+[![GitHub](https://img.shields.io/github/followers/jithu-francis?label=Follow&style=social)](https://github.com/jithu-francis)]
 
 ---
 
