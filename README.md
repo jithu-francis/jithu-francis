@@ -1,6 +1,6 @@
 ---
 
-![Banner](./banner.webp)
+![Banner](./banner.gif)
 
 ---
 
