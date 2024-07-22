@@ -1,6 +1,6 @@
 ---
 
-![Banner](./banner.gif)
+# Jithu Francis
 
 ---
 
