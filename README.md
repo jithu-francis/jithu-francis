@@ -1,6 +1,6 @@
 ---
 
-# 💻 Jithu Francis
+![Banner](./banner.webp)
 
 ---
 
