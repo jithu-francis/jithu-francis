@@ -1,81 +1,91 @@
----
+<h1 align="center">Hi <a href="#" id="waving-hand">👋</a>, I'm Jithu Francis</h1>
 
-# Jithu Francis
+<style>
+  @keyframes wave {
+    0% { transform: rotate(0deg); }
+    10% { transform: rotate(14deg); }
+    20% { transform: rotate(-8deg); }
+    30% { transform: rotate(14deg); }
+    40% { transform: rotate(-4deg); }
+    50% { transform: rotate(10deg); }
+    60% { transform: rotate(0deg); }
+    100% { transform: rotate(0deg); }
+  }
+  #waving-hand {
+    display: inline-block;
+    transform-origin: 70% 70%;
+    animation: wave 2s infinite;
+  }
+</style>
 
----
+<h3 align="center">Passionate Backend Developer | ML Enthusiast | Lifelong Learner | Crafting Scalable Solutions and Innovative Web Experiences</h3>
 
-## 👋 About Me
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=jithu-francis&label=Profile%20views&color=0e75b6&style=flat" alt="jithu-francis" /> 
+</p>
 
-Hello! I'm Jithu Francis, a passionate and dedicated B.Tech Computer Science graduate from the University College of Engineering, Thodupuzha. With a strong foundation in data structures, databases, and the software development lifecycle (SDLC), I am proficient in programming languages such as C, Java, Python, and Django.
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=jithu-francis" alt="jithu-francis" />
+  </a> 
+</p>
 
-I thrive on solving problems and am always eager to learn and grow. My background in technology is complemented by my strong communication skills, ability to work independently and as part of a team, and excellent organizational abilities. I am enthusiastic about contributing to dynamic and innovative teams, and I'm always looking for opportunities to make a real impact.
+- 🌱 I’m currently learning **Some Basics..**
 
----
+- 📫 How to reach me **[jithufrancis2000@gmail.com](mailto:jithufrancis2000@gmail.com)**
 
-## 🛠️ Skills
+- 🌐 My Portfolio Site: **[jithu-francis.github.io](https://jithu-francis.github.io/)**
 
-- **Programming Languages:** C, Java, Python
-- **Web Development:** HTML, CSS, JavaScript, Django
-- **Database Management:** SQL
-- **Tools & Technologies:** Git, Docker
-- **Soft Skills:** Strong organizational and time-management skills, effective communication, and interpersonal skills
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/jithu-francis-958aa81a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jithu-francis" height="30" width="40" /></a>
+<a href="https://www.instagram.com/jithu_francis._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jithu_francis._" height="30" width="40" /></a>
+</p>
 
-## 📚 Education
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="50" height="50"/>
+  </a>
+  <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.django-rest-framework.org/img/logo.png" alt="Django REST Framework" width="90" height="60"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="50" height="50"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
+  </a>
+  <a href="https://keras.io/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="50" height="50"/>
+  </a>
+  <a href="https://www.kaggle.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="Kaggle" width="50" height="50"/>
+  </a>
+  
+</p>
 
-- **B. Tech in Computer Science**  
-  University College of Engineering, Thodupuzha  
-  2020 - Present
 
-- **Higher Secondary Education**  
-  St. George HSS Kothamangalam  
-  2017 - 2019
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jithu-francis&show_icons=true&locale=en&layout=compact" alt="jithu-francis" /></p>
 
-## 🎓 Certifications
-
-- Python Intermediate Certification by Cozmek
-- Python Advanced Certification by Cozmek
-- Work Readiness Programme Completion Certificate
-
----
-
-## 💼 Experience
-
-### **Software Developer**
-- Developed VoxWave, a Django web application designed to bridge the gap between sensory-impaired and sighted individuals. The application integrates text-to-speech and speech-to-text with emotion recognition for seamless communication.
-
-### **Projects**
-- **VoxWave:** A Django web application leveraging social media platforms for image sharing and interaction, with integrated text-to-speech and speech-to-text features.
-- **Med - B:** A web application to store all medical data with a personal AI health assistant, aimed at creating a paperless medical record system.
-- **SnowWhite:** A personal assistant based on ML, NLP, DL, and AI to execute simple predefined tasks.
-- **Real-Time Face Emotion Detection:** Python code for facial emotion recognition using Convolutional Neural Networks (CNN) to detect emotions like happy and surprised.
-
----
-
-## 🏆 Achievements
-
-- **First Prize, Engenius – 2024**  
-  Amrita Vishwa Vidyapeetham  
-  Won first prize in the computer science department for the project VoxWave at this national-level annual project competition showcasing innovative technical projects.
-
-- **Second Prize, Google AI Campus Fest Hackathon**  
-  Hosted by Sahrdaya College of Engineering and Technology in collaboration with Google for Developers India and various tech companies.
-
----
-
-## 📫 Get in Touch
-
-- **Email:** [jithufrancis2000@gmail.com](mailto:jithufrancis2000@gmail.com)
-- **LinkedIn:** [Jithu Francis](https://www.linkedin.com/in/jithu-francis/)
-- **Portfolio:** [https://jithu-francis.github.io/](https://jithu-francis.github.io/)
-
-Feel free to explore my projects and connect with me. Let's build something amazing together!
-
----
-
-### ✨ Thank you for visiting my GitHub profile!
-
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jithu-francis&show_icons=true&locale=en" alt="jithu-francis" /></p>
