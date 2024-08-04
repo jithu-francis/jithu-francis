@@ -59,7 +59,7 @@
 
 
 
-- 🌱 I’m currently learning **Some Basics..**
+- 🌱 I’m currently learning **C#...**
 
 - 📫 How to reach me **[jithufrancis2000@gmail.com](mailto:jithufrancis2000@gmail.com)**
 
