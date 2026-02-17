@@ -63,7 +63,7 @@
 
 - 📫 How to reach me **[jithufrancis2000@gmail.com](mailto:jithufrancis2000@gmail.com)**
 
-- 🌐 My Portfolio Site: **[jithu-francis.github.io](https://jithu-francis.github.io/)**
+- 🌐 My Portfolio Site: **[jithufrancis.com](https://www.jithufrancis.com)**
 
 
 <h3 align="left">Connect with me:</h3>
