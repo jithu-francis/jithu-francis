@@ -20,7 +20,6 @@
 *   🐍 **Python** is my core weapon of choice—I build robust, scalable web applications, craft APIs, automate workflows, and design backend systems.
 *   🛡️ Actively expanding my arsenal in **Cybersecurity**, exploring network defense, vulnerability assessment, ethical hacking, and secure coding practices.
 *   🧠 Always fascinated by **Machine Learning**, periodically experimenting with Keras, TensorFlow, and Google Colab to train models.
-*   🌱 Currently learning **C#** and refining my system architecture knowledge.
 
 📫 **Reach me at:** [jithufrancisofficial@gmail.com](mailto:jithufrancisofficial@gmail.com) | 🌐 **Portfolio:** [jithufrancis.com](https://www.jithufrancis.com)
 
